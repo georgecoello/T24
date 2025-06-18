@@ -1,0 +1,2 @@
+# T24
+Automatización
